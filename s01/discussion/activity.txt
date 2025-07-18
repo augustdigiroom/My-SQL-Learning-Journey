@@ -1,0 +1,54 @@
+List the books Authored by following authors:
+
+1. Johnson White
+Secrets of Silicon Valley
+
+2. Dean Straight
+Straight Talk About Computers
+
+3. Marjorie Green
+The Busy Executive's Database Guide
+You can Combat Computer Stress! 
+
+4. Michael O'Leary
+Cooking With Computers and The Gourmet Microwave
+
+5. Ann Dull 
+Secrets of Silicon Valley
+
+
+
+List the author/s of the following titles:
+
+1. The Busy Executive's Database Guide
+Marjorie Green and Abraham Bennet
+
+2. Secrets of Silicon Valley
+Ann Dull and Johnson White
+
+3. The Gourmet Microwave
+Michael O'Leary and Burt Gringlesby
+
+
+List the books published by the following publishers
+
+1. Algodata Infosystems
+
+The Busy Executive's Database Guide
+Cooking with Computers
+Straight Talk About Computers
+But Is It User Friendly?
+Secrets of Silicon Valley
+Net Etiquette
+
+2. New Moon Books 
+
+You can Combat Computer Stress!
+Is Anger the Enemy?
+
+3. Binnet Herdley 877
+
+Silicon Valley Gastronomic Treats
+The Gourmet Microwave
+The Psychology of Computer Cooking
+

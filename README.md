@@ -1,4 +1,5 @@
 # 📚 MySQL Journey: Learning Relational Databases with XAMPP
+Augustine Grepo - Zuitt Bootcamp Short Course | July 2025
 
 Welcome to my MySQL learning journey! 🚀  
 This repository documents what I've learned through a short course on MySQL using **XAMPP** as the local server environment. It's a personal archive of exercises, queries, and insights into relational database management and SQL syntax.
